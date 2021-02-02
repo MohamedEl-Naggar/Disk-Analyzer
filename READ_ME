@@ -1,0 +1,10 @@
+To run the program, you must have g++ version 9 installed on your system. To install the compiler use the following commands:
+1- sudo apt-get update
+2- sudo apt-get install g++-9
+
+Also, you will need the Qt libraries. you can use the following commands to install Qt:
+1- sudo apt-get install build-essential
+2- sudo apt-get install qtcreator
+3- sudo apt install qt5-default
+
+Once you have installed Qt and g++-9, write 'chmod +x disk' in the terminal to have access to the executable file (disk). finally, use ./'exec_filename' command to run the project. The executable file name is disk in our project and you will find it in the main folderS.
